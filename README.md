@@ -6,4 +6,4 @@ This project consists of comedies, Drama, Documentaries, children & family movie
 ## Getting Started
 This project runs in index.hml
 
-![Netflix_Poster](/uploads/30adbdbed67d32aa031f950c81952373/Netflix_Poster.png)
+![sarah_netflix](/uploads/b69d777be4fe60e9e43e1be29b522e2b/sarah_netflix.PNG)
